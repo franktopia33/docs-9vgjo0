@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-pv1rwc.salamduit.cfd/sitemap.xml
